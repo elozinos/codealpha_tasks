@@ -1,0 +1,11 @@
+train: C:\Users\USER\yolo\train
+val: C:\Users\USER\yolo\val
+nc: 39
+names: [
+    "cup", "ball", "pencil", "tennis racket", "ipad", "airpods", "hoodie", "bag",
+    "lip gloss", "headset", "trousers", "earrings", "perfume", "car", "cat",
+    "shoe", "lemon", "claw clip", "ice cream", "flower", "tricycle", "cake",
+    "person", "sign", "dustbin", "book", "apple", "traffic light", "skirt", "cap",
+    "shopping cart", "camera", "sunglasses", "suitcase", "chair", "table", 
+    "bicycle", "shirt", "excavator"
+]
